@@ -21,5 +21,24 @@ ng new myapp
 ng add @nebular/theme
 ```
 
-re serve/compile the app
+run serve/compile the app
+```powershell
 ng serve myapp
+```
+
+## support for pwa
+
+```powershell
+ng add @angular/pwa
+```
+
+## deploy to firebase
+
+```powershell
+ng add @angular/fire
+ng deploy
+```
+
+## final URL
+
+https://bandnamesurvey-74832.web.app/

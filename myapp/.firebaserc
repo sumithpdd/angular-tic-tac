@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "bandnamesurvey-74832": {
+      "hosting": {
+        "myapp": [
+          "bandnamesurvey-74832"
+        ]
+      }
+    }
+  }
+}
